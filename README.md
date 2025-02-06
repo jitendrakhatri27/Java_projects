@@ -1,2 +1,2 @@
 # Java_projects
-This is a projects in Java.
+This is a Calculator and Tic Tac-Toe
